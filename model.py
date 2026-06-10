@@ -1,10 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
 
 """
 Title: Speech Emotion Recognition Model Definition (SigWavNet)
-Author: Alaa Nfissi
-Date: March 31, 2024
 Description: Defines the architecture of the speech emotion recognition model (SigWavNet), incorporating 
 custom layers, attention mechanisms, and the overall neural network structure.
 """
